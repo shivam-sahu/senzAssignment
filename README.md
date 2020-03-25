@@ -4,6 +4,13 @@
 
 Recommendation before proceding :- 
 You should be familiar with the [scorelab/senz](https://github.com/scorelab/senz) project and also have sent queries to different sample client in the [senz-client-samples](https://github.com/scorelab/senz/tree/master/senz-client-samples) folder.
+
+### Preview 
+Send from Mobile app to javascript client in pc.
+![Alt Text](./Preview/sendThroughMobile.gif)
+
+Send from javascript client in pc to Mobile app.
+![Alt Text](./Preview/receiveToMobile.gif)
 ### Installation Instructions:-
 1. Clone the repository into your local machine and go to the project directory.
 ```bash
