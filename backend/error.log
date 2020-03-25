@@ -1,0 +1,14 @@
+{"message":"Error Message: Error: read ECONNRESET","level":"error","service":"user-service"}
+{"message":"Error Message: Error: read ECONNRESET","level":"error","service":"user-service"}
+{"message":"Error Message: Error: read ECONNRESET","level":"error","service":"user-service"}
+{"message":"Error Message: Error: read ECONNRESET","level":"error","service":"user-service"}
+{"message":"Error Message: Error: read ECONNRESET","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
+{"message":"Error Message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed","level":"error","service":"user-service"}
