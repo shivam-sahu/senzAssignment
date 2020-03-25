@@ -1,3 +1,3 @@
-const URL = "http://773ace35.ngrok.io";
+const URL = "";
 
 module.exports= {URL};

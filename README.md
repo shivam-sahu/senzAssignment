@@ -3,7 +3,7 @@
 #### React-Native Mobile app for transfer of messages through senz server.
 
 Recommendation before proceding :- 
-You should be familar with the [scorelab/senz](https://github.com/scorelab/senz) project and also have sent queries to differnet sample client in the [senz-client-samples](https://github.com/scorelab/senz/tree/master/senz-client-samples) folder.
+You should be familiar with the [scorelab/senz](https://github.com/scorelab/senz) project and also have sent queries to different sample client in the [senz-client-samples](https://github.com/scorelab/senz/tree/master/senz-client-samples) folder.
 ### Installation Instructions:-
 1. Clone the repository into your local machine and go to the project directory.
 ```bash
@@ -16,7 +16,7 @@ npm run install-dep
 3. Now run the [senz-switch](https://github.com/scorelab/senz/tree/master/senz-switch) server from the Scorelab/senz repository.
 Note:- Make sure that mongo db is installed and running in your local machine.
 
-4. Now run a tunneling service such as [ngrok](https://ngrok.com/) for port 3003 in one terminal and copy the url given by ngrok and replace the url in the utils file.
+4. Now run a tunneling service such as [ngrok](https://ngrok.com/) for port 3003 in one terminal and copy the url given by ngrok and replace the url in the [utils.js](./utils.js) file.
 Eg. for ubuntu
 ```bash
 ./ngrok http 3003
